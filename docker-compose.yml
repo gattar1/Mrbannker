@@ -3,8 +3,8 @@ services:
   worker:
     build: .
     environment:
-      TOKEN: $TOKEN
+      TOKEN: 7379688073:AAGrolXmp13KT_xUmoVGCAQogakiupydUIw
       BLACKLISTED: $BLACKLISTED
-      PREFIX: $PREFIX
-      OWNER: $OWNER
+      PREFIX: /
+      OWNER: gattarx
       ANTISPAM: $ANTISPAM
